@@ -2,12 +2,13 @@
 
 # Rurser
 
-### Introduction
 ![Version](https://img.shields.io/badge/version-1.0-ffffff?label=Version)
 [![Github](https://img.shields.io/badge/Github-gray)](https://github.com/TechAngle)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
+### Introduction
 
 Rurser is an open-source tool that parses log files from Redline log sources.
 ### Features
