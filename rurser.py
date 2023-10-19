@@ -1,5 +1,3 @@
-# sourcery skip: use-fstring-for-concatenation
-# sourcery skip: use-fstring-for-concatenation
 import os
 import re
 import argparse
