@@ -3,10 +3,11 @@
 # Rurser
 
 ![Version](https://img.shields.io/badge/version-1.0-ffffff?label=Version)
-[![Github](https://img.shields.io/badge/Github-gray)](https://github.com/TechAngle)
+[![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&color=black)](https://github.com/TechAngle)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/techangle)
 
 Rurser is an open-source tool that parses log files from Redline log sources.
 
@@ -18,22 +19,21 @@ Rurser is an open-source tool that parses log files from Redline log sources.
 
 ## Installation
 
-### Using zip with binary:
-Run file **run_parsing.bat** and enter folder with Logs.
-
 ##### EXAMPLE OF LOGS DIRECTORIES
 >*(logs directory)*:\
  -***UA**TETSDF#GS#3...*,\
  -***CZ**DY4HF3S#...*\
- -***RU**UIFSH%3F...*\
->  *Bold letters its country that will in end of datas*\
+ -***RU**UIFSH%3F...*
+
+*Bold letters its country that will in end of datas*
 
 Then program create a folder "*parses*" that contains folders with parsed data in format:\
  ***URL: (url) [**username**:**password**]***
 
 ### Use original binary file to run:
 **!BEFORE THIS, YOU MUST ADD RURSER TO *SYSTEM PATH***
-1. Open ***your terminal*** and write:\
+1. Download Rurser release
+2. Open ***your terminal*** and write:\
 &emsp;**``
 rurser -f <folder> -s <json file>
 ​``**\
