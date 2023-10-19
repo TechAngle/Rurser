@@ -8,9 +8,8 @@
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
-### Introduction
-
 Rurser is an open-source tool that parses log files from Redline log sources.
+
 ### Features
 
 - Parse logs from RedLine
